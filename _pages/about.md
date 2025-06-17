@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "AI researcher. CS professor. Code lover with a soft spot for language."
+title: "AI researcher. CS professor. Focused on language, learning, and intelligent systems."
 author_profile: true
 redirect_from: 
   - /about/
