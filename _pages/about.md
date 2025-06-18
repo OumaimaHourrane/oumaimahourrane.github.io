@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "AI researcher. CS professor. Code & Language nerd."
+title: "AI researcher. CS professor. Code & Language whiz."
 author_profile: true
 redirect_from: 
   - /about/
