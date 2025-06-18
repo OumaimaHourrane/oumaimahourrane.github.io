@@ -7,10 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Oumaima Hourrane. Assistant Professor of Computer Science at Al Akhawayn University in Ifrane, Morocco.
+Hi, I’m Oumaima, Assistant Professor of Computer Science at Al Akhawayn University in Ifrane, Morocco.
 
-My work focuses on Natural Language Processing, Artificial Intelligence, and the ethical design of intelligent systems. I’m particularly interested in how language, meaning, and fairness intersect in machine learning, and how we can build systems that are both powerful and responsible.
+I work at the intersection of Natural Language Processing, Artificial Intelligence, and tech ethics. My research explores how language, meaning, and fairness shape machine learning, and how we can design systems that are not only intelligent but also responsible.
 
-On this site, you’ll find an overview of my research, teaching, and creative projects. I also occasionally write about AI, education, and the curious intersections between tech, language, and society.
+This site highlights my research, teaching, and creative work. I also write occasionally about AI, education, and the intriguing crossroads where technology meets language and society.
 
 Thanks for visiting!
